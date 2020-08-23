@@ -1,0 +1,77 @@
+BEVERAGES
+9oz.
+16oz.
+Cranberry Ice Tea
+Apple lce Tea
+Pineapple Ice Tea
+1.50
+2.50
+1.50
+2.50
+1.50
+2.50
+Green Ice Tea
+1.50
+2.50
+Regular Ice Tea
+Fresh Squeezed Orange Juice
+Fresh Squeezed Carrot Juice
+Fresh Squeezed Vegetable Juice
+1.00
+1.50
+1.75
+3.00
+1.75
+3.00
+THOUR 2.00
+3.50
+Rice Milk Shake
+1.50
+2.50
+Soy Bean Milk
+1.50
+2.50
+Mineral Water
+small
+large
+Evian
+2.25
+4.50
+San Pallegrino
+Fruit Flavor (Kiwi, Strawberry, Orange)
+2.25
+4.50
+2.00
+Organic Apple Juice
+2.50
+Soda (can)
+1.25
+Fresh Brewed Coffee
+.95
+Jasmine Tea
+8.95
+Organic Herbal Tea (Cascade Mint)
+Organic Green Tea
+Organic Earl Grey Tea
+.95
+.95
+.95
+Espresso
+Cappuccino
+1.75
+ou ofor
+2.25
+DESSERT MENU
+Banana Pie
+3.50
+Banana with Non-Dairy Yogurt/Shredded Almond
+Pear Pie
+3.50
+Naturally Sweetened Pear with Blueberry Topping
+Tofu Honey Pie
+3.95
+Tofu with Cream Cheese and Blueberry Topping
+Key Lime Pie
+3.95
+1999-0002
+

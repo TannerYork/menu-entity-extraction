@@ -1,0 +1,53 @@
+Draft
+Stella Artois
+5.00
+Guinness
+5.00
+Chimay
+6.50
+Веer
+Presidente
+4.00
+Bass
+4.50
+Heinekin
+4.50
+Czechvar
+5.00
+Samuel Smith Pale Ale
+5.00
+Stove Pipe Porter
+5.00
+Duvel
+6.50
+Gouden Carolus
+7.50
+Cocktails
+Champagne Cocktail
+CHAMPAGNE, SUGAR CUBE, BITTERS
+6.50
+French 75
+CHAMPAGNE, BRANDY
+7.00
+Rusty Nai1
+SCOTCH, DRAMBUIE
+6.50
+Brandy Alexander
+BRANDY, CREAM, CREME DE CACAO
+7.00
+Bronx
+GIN, DRY & SWEET VERMOUTH,OJ & BITTERS
+7.50
+Corpse Reviver
+GIN,TRIPLE SEC,LILLET, PASTIS
+7.50
+Vowel
+SCOTCH, SWEET VERMOUTH,OJ, AKAVIT, BITTERS
+7.50
+Calvados Cocktail
+CALVADOS,OJ,TRIPLE SEC,ORANGE BITTERS
+7.50
+11/03/04
+03/03/05
+
+ 

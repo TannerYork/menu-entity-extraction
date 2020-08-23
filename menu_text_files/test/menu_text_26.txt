@@ -1,0 +1,103 @@
+Dinner
+Soup and Salad
+Soup
+Green Salad
+5.00
+5.00
+Goat Cheese Salad
+6.50
+Entrees
+Burger
+Cheeseburger
+9.00
+9.50
+Mussels with fries
+12.50
+1/2 Chicken
+13.50
+Hanger steak
+Ribeye with fries
+17.00
+22.00
+Sides
+Sauteed greens
+3.00
+Potatoes
+3.00
+French fries
+3.50
+09/15/04
+
+ Dinner
+ Soup
+ and
+ Salad
+ Soup
+ Green
+ Salad
+ 5.00
+ 5.00
+ Goat
+ Cheese
+ Salad
+ 6.50
+ Entrees
+ Burger
+ Cheeseburger
+ 9.00
+ 9.50
+ Mussels
+ with
+ fries
+ 12.50
+ 1/2
+ Chicken
+ 13.50
+ Hanger
+ steak
+ Ribeye
+ with
+ fries
+ 17.00
+ 22.00
+ Sides
+ Sauteed
+ greens
+ 3.00
+ Potatoes
+ 3.00
+ French
+ fries
+ 3.50
+ 09/15/04
+Dinner
+Soup and Salad
+Soup
+Green Salad
+5.00
+5.00
+Goat Cheese Salad
+6.50
+Entrees
+Burger
+Cheeseburger
+9.00
+9.50
+Mussels with fries
+12.50
+1/2 Chicken
+13.50
+Hanger steak
+Ribeye with fries
+17.00
+22.00
+Sides
+Sauteed greens
+3.00
+Potatoes
+3.00
+French fries
+3.50
+09/15/04
+
+ 
