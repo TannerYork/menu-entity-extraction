@@ -46,19 +46,19 @@ with open('menu-entities.txt', 'a') as file:
             continue
 
 ## Then uncomment and run this code:
-data_type = 'train' # train, test, validation
-file_number_offset = 62 # one higher than the current largest number file
-file = open('menu-entities.txt', 'r')
-lines = file.readlines()
+# data_type = 'train' # train, test, validation
+# file_number_offset = 62 # one higher than the current largest number file
+# file = open('menu-entities.txt', 'r')
+# lines = file.readlines()
 
-# Get's the text json from the menu entities file
-for index, line in enumerate(lines):
-    menu_file = open('menu_text_files/{}/{}.txt'.format(data_type, 'menu_text_' + str(index+file_number_offset)), 'a')
-    line_json = json.loads(line)
-    texts = line_json["text_snippet"]["content"].split('\n')
-    # Adds the text to it's own file with the name of its index 
-    for text in texts:
-        menu_file.write(text)
-        menu_file.write('\n')
-    menu_file.close()
-file.close()
+# # Get's the text json from the menu entities file
+# for index, line in enumerate(lines):
+#     menu_file = open('menu_text_files/{}/{}.txt'.format(data_type, 'menu_text_' + str(index+file_number_offset)), 'a')
+#     line_json = json.loads(line)
+#     texts = line_json["text_snippet"]["content"].split('\n')
+#     # Adds the text to it's own file with the name of its index 
+#     for text in texts:
+#         menu_file.write(text)
+#         menu_file.write('\n')
+#     menu_file.close()
+# file.close()
